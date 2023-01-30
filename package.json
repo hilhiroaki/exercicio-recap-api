@@ -1,0 +1,24 @@
+{
+  "name": "exercicio-recap-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hilhiroaki/exercicio-recap-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hilhiroaki/exercicio-recap-api/issues"
+  },
+  "homepage": "https://github.com/hilhiroaki/exercicio-recap-api#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^6.8.3",
+    "node": "^19.3.0"
+  }
+}
